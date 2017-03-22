@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Mar 22 15:29:27 2017
+;; Desktop file format version 208
+;; Emacs version 26.0.50.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22738 64199 462658 0) (desktop . "208") "wgehr@wgehr-mbp2" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#839496") (environment) (display . "wgehr-mbp2") (visibility . t) (frameset--id . "CC0E-99E7-CA90-B749") (frameset--mini t . t) (modeline . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 63) (width . 92) (left . 164) (top + -1105)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 660) (pixel-height . 868) (total-width . 94) (total-height . 62) (normal-height . 1.0) (normal-width . 1.0) (buffer "test.txt" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1012) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("dark" "g" "load-path" "css" "xah-lookup" "Atmos"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Box Sync/Working_Documents/test.txt" "~/.emacs.d/init.el" "~/Box Sync/Working_Documents/test.txt" "~/.emacs.d" "~/Box Sync/Working_Documents/test.txt" "~/Box Sync/Working_Documents/Outlines/" "~/.emacs.d/init.el" "~/Box Sync/Working_Documents/Outlines/todo.org" "~/.emacs.d" "~/Box Sync/Working_Documents/Outlines/" "~" "~/Box Sync/Working_Documents/" "~/scripts/" "~/Box Sync/Working_Documents/test.txt" "~/.emacs.d" "~/init.d/" "~/.emacs.d/init.el" "~/Box Sync/Working_Documents/" "~/.emacs.d/scripts/org-mouse.el" "~/.emacs.d/scripts" "~/.emacs.d/scripts/org-mouse.el" "~/.emacs.d/scripts/" "~/.emacs.d/.emacs" "~/.emacs.d/" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/scratch.txt" "~/Box Sync/Working_Documents/Outlines/" "/Users/wgehr/Desktop/web-outline.html" "~/Box Sync/Working_Documents/Outlines/scratch.org" "~" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/Outlines/todo.org" "~/Box Sync/Working_Documents/Outlines/" "~/.emacs.d/init.el" "~/Box Sync/Working_Documents/Outlines/web-quarterly.org" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/Outlines/lists.org" "~/Box Sync/Working_Documents/Outlines/todo.org" "~/Box Sync/Working_Documents/scripts/" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/Outlines/todo.org" "~/Box Sync/Working_Documents/scripts/" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/scripts/test.html" "~/Box Sync/Working_Documents/scripts/playmedia.html" "~/Box Sync/Working_Documents/scripts/" "~/Box Sync/Working_Documents/scripts" "~/Box Sync/Working_Documents/script" "~/Box Sync/Working_Documents/" "~/Box Sync/Working_Documents/Outlines/web-strategy.org" "~/Box Sync/Working_Documents/" "~" "~/Desktop/test.py" "" "~/Box Sync/Working_Documents/" "~/Desktop/test.py" "~/Desktop/movejpg.py" "~/Desktop/" "~/Desktop/test.py" "~/Box Sync/Working_Documents/drafts/developerportal.txt" "~/Box Sync/Working_Documents/drafts" "~/Box Sync/Working_Documents/" "~/Box Sync/Working_Documents/drafts/" "~/Box Sync/Working_Documents/drafts/developerportal.txt" "~/Box Sync/Working_Documents/Outlines/" "~/Box Sync/Working_Documents/emacs-cheatsheet.txt" "~/Box Sync/Working_Documents/todo.org" "~/Box Sync/Working_Documents/" "~/.emacs.d/" "~/Box Sync/Working_Documents/" "~/.emacs.d" "~/Box Sync/Working_Documents/questions.org" "~/Box Sync/Working_Documents/org-mode-cheatsheet.txt" "~/Box Sync/Working_Documents/" "~/.emacs.d/" "~/.emacs" "~/Box Sync/Working_Documents/" "~/Box Sync/Working_Documents/AudioExperience/test-stream.html" "~/Box Sync/Working_Documents/" "~/leaf-test.html" "~/.emacs.d/init.el" "~/scratch.txt" "~/test.html" "~/.emacs.d/init.el" "~/test.txt" "~/" "~/.emacs.d/init.el" "~/Box Sync/Working_Documents/" "~/" "~/.emacs.d/init.el" "" "~/" "~/.emacs.d"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/wgehr/Box Sync/Working_Documents/test.txt"
+  "test.txt"
+  'text-mode
+  '(visual-line-mode flyspell-mode org-indent-mode)
+  1012
+  '(754 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 22738 64188 735445 0) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring (754 181 181))))
+
+(desktop-create-buffer 208
+  "/Users/wgehr/Box Sync/Working_Documents/Outlines/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode flyspell-mode org-indent-mode)
+  192
+  '(353 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 22738 64060 536173 0) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring (9 624 1 641 7 360 353 9 9 9 7 7 641 73 192 75))))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(visual-line-mode)
+  596
+  '(nil nil)
+  t
+  '("/Users/wgehr/.emacs.d/")
+  '((buffer-display-time 22738 63642 501276 0) (truncate-lines))
+  '((mark-ring nil)))
+
